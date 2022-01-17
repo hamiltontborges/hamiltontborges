@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hamilton Tumenas Borges
+### Bem-vindo ao meu perfil do Github! 👋
 
-<!--
-**hamiltontborges/hamiltontborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Perfil
+- ⭐ 29/03/1984 
+- 👨‍👩‍👧 casado e pai da Lara
+- São João da Boa Vista - SP 🇧🇷
 
-Here are some ideas to get you started:
+### Descrição 🙋‍♂️
+Atualmente sou advogado e graduando em Análise e Desenvolvimento de Sistemas. Sou apaixonado em tecnologia e busco uma oportunidade de emprego na área de desenvolvimento de softawares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interesses
+
+
+## Formações
+- Gastronomia 👨‍🍳🔪 
+- Direito 👨‍⚖️⚖ 
+- Análise e Desenvolvimento de Sistemas (graduando) 👨‍💻📖 
+
+<div>  
+  <a href="https://github.com/hamiltontborges"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltontborges&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?hamiltontborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
