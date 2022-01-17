@@ -1,9 +1,3 @@
-<style>
-a {
-  text-decoration: none
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Hamilton Tumenas Borges</h1>
 <h3 align="center">A passionate frontend developer from Brazil (São João da Boa Vista - SP)</h3>
 
