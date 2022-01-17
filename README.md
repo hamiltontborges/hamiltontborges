@@ -1,5 +1,5 @@
-## Olá, eu sou Hamilton Tumenas Borges
-### Bem-vindo ao meu perfil do Github! 👋
+## Olá, meu nome Hamilton Tumenas Borges!
+### Bem-vindo ao meu perfil do Github 👋
 
 #### Perfil
 - ⭐ 29/03/1984 
