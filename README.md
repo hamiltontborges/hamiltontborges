@@ -5,24 +5,20 @@
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
 
 🌱 Atualmente sou advogado e graduando em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco uma oportunidade de emprego na área de desenvolvimento de softwares.
-<br>
 <hr>
 
 #### 👨‍🎓 Formações
 - Gastronomia 👨‍🍳🔪 
 - Direito 👨‍⚖️⚖ 
 - Análise e Desenvolvimento de Sistemas (jul/2022) 👨‍💻📖 
-<br>
 <hr>
 
 #### 🎯 Objetivo profissional
 Tornar-me um desenvolvedor de software, compartilhar conhecimento e contribuir com projetos. Crescer e ajudar os outros a crescerem!
-<br>
 <hr>
 
 #### 🤓 Interesses 
 Além do conteúdo da graduação, busco também adquirir conhecimento extracurriculares, através de cursos, livros e conteúdo na internet (comunidades dev, vídeos youtube, blogs, entre outros).
-<br>
 <hr>
 
 #### 🕺 O que gosto de fazer?
@@ -35,7 +31,6 @@ Além do conteúdo da graduação, busco também adquirir conhecimento extracurr
 - NFL 🏈
 - Tomar cerveja 🍺
 - Assistir filmes e séries 🎥🎬
-<br>
 <hr>
 
 #### 💻 Linguagens e Ferramentas
@@ -58,7 +53,6 @@ Além do conteúdo da graduação, busco também adquirir conhecimento extracurr
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="30"/>
 </div>
-<br>
 <hr>
 
 #### 📬 Contatos
@@ -69,7 +63,6 @@ Além do conteúdo da graduação, busco também adquirir conhecimento extracurr
 <a href="https://instagram.com/hamiltontborges" target="_blank"><img src="https://i.ibb.co/sm35G5C/1-instagram.png" width="30" alt="ícone instagram"></a>  
 <a href="https://www.linkedin.com/in/hamiltontborges/" target="_blank"><img src="https://i.ibb.co/kymMWhq/1-linkedin.png" width="30" alt="ícone linkedin"></a>
 </div>
-<br>
 <hr>
 
 #### 🔥 GitHub Status
