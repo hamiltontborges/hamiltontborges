@@ -59,6 +59,6 @@ Além do conteúdo da graduação, busco também adquirir conhecimento extracurr
 </div>
 
 #### 🔥 GitHub Status
-<div> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltontborges&layout=compact&langs_count=7&theme=dracula"/><img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=hamiltontborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  </div>
+<div> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltontborges&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/><img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=hamiltontborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>  </div>
 
 <p  align="left"> <img  src="https://komarev.com/ghpvc/?username=hamiltontborges&label=Profile%20views&color=0e75b6&style=flat"  alt="hamiltontborges" /> </p>
