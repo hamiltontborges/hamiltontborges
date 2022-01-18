@@ -1,5 +1,5 @@
 ## Olá, meu nome é Hamilton Tumenas Borges! 👋
-### Bem-vindo ao meu perfil do Github.
+### Bem-vindo ao meu perfil do GitHub.
 
 #### 👤 Perfil 
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
