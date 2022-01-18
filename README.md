@@ -4,7 +4,7 @@
 #### 👤 Perfil 
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
 
-🌱 Atualmente sou advogado e graduando em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco uma oportunidade de emprego na área de desenvolvimento de softawares.
+🌱 Atualmente sou advogado e graduando em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco uma oportunidade de emprego na área de desenvolvimento de softwares.
 
 #### 👨‍🎓 Formações
 - Gastronomia 👨‍🍳🔪 
