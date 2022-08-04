@@ -6,21 +6,21 @@
 ### 👤 Perfil 
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
 
-🌱 Atualmente sou advogado e graduando em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco uma oportunidade de emprego na área de desenvolvimento de softwares.
+🌱 Atualmente sou advogado e desenvolvedor de sistemas. Sou apaixonado por tecnologia e busco me aprimorar na área de desenvolvimento de softwares.
 <hr>
 
 ### 👨‍🎓 Formações
-- Gastronomia 👨‍🍳🔪 
-- Direito 👨‍⚖️⚖ 
-- Análise e Desenvolvimento de Sistemas (jul/2022) 👨‍💻📖 
+- Gastronomia 2002-2003 👨‍🍳🔪 
+- Direito 2010-2014 👨‍⚖️⚖ 
+- Análise e Desenvolvimento de Sistemas 2020-2022 👨‍💻📖 
 <hr>
 
 ### 🎯 Objetivo profissional
-Tornar-me um desenvolvedor de software, compartilhar conhecimento e contribuir com projetos. Crescer e ajudar os outros a crescerem!
+Tornar-me um bom desenvolvedor de softwares, compartilhar conhecimento e contribuir com projetos. Crescer e ajudar os outros a crescerem!
 <hr>
 
 ### 🤓 Interesses 
-Além do conteúdo da graduação, busco também adquirir conhecimento extracurriculares, através de cursos, livros e conteúdo na internet (comunidades dev, vídeos youtube, blogs, entre outros).
+Conhecer novas tecnologias, estudar e adquirir experiência.
 <hr>
 
 ### 🕺 O que gosto de fazer?
