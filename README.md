@@ -65,8 +65,4 @@ Conhecer novas tecnologias, estudar e adquirir experiência.
 <a href="https://instagram.com/hamiltontborges" target="_blank"><img src="https://i.ibb.co/sm35G5C/1-instagram.png" width="30" alt="ícone instagram"></a>  
 <a href="https://www.linkedin.com/in/hamiltontborges/" target="_blank"><img src="https://i.ibb.co/kymMWhq/1-linkedin.png" width="30" alt="ícone linkedin"></a>
 </div>
-<hr>
-
-### 🔥 GitHub Status
-<div> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltontborges&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/><img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=hamiltontborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>  </div>
 
