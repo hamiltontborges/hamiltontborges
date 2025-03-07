@@ -49,12 +49,3 @@ Conhecer novas tecnologias, estudar e adquirir experiência.
 </div>
 <hr>
 
-### 📬 Contatos
-<div>
-<a href="mailto:hamilton.borges@sou.unifeob.edu.br" target="_blank"><img src="https://i.ibb.co/nsYb5x6/1-gmail.png" width="30" alt="ícone gmail"></a>
-<a href="https://wa.me/5519992990279" target="_blank"><img src="https://i.ibb.co/HYNzNQh/1-whatsapp.png" width="30" alt="ícone whatsapp"></a>
-<a href="https://facebook.com/hamiltontborges" target="_blank"><img src="https://i.ibb.co/1RdvtVZ/1-facebook.png" width="30" alt="ícone facebook"></a>
-<a href="https://instagram.com/hamiltontborges" target="_blank"><img src="https://i.ibb.co/sm35G5C/1-instagram.png" width="30" alt="ícone instagram"></a>  
-<a href="https://www.linkedin.com/in/hamiltontborges/" target="_blank"><img src="https://i.ibb.co/kymMWhq/1-linkedin.png" width="30" alt="ícone linkedin"></a>
-</div>
-
