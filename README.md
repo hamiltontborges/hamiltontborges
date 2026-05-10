@@ -1,29 +1,41 @@
 ## Olá, meu nome é Hamilton Tumenas Borges! 👋
+
 ### Bem-vindo ao meu perfil do GitHub.
-<p  align="right"> <img  src="https://komarev.com/ghpvc/?username=hamiltontborges&label=Profile%20views&color=0e75b6&style=flat"  alt="hamiltontborges" /> </p>
 
+[![hamiltontborges](https://komarev.com/ghpvc/?username=hamiltontborges&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hamiltontborges)
 
-### 👤 Perfil 
+### 👤 Perfil
+
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
 
 🌱 Atualmente sou advogado e desenvolvedor de sistemas. Sou apaixonado por tecnologia e busco me aprimorar na área de desenvolvimento de softwares.
-<hr>
+
+🌐 Site: [h6n.com.br](https://h6n.com.br)
+
+---
 
 ### 👨‍🎓 Formações
-- Gastronomia 2002-2003 👨‍🍳🔪 
-- Direito 2010-2014 👨‍⚖️⚖ 
-- Análise e Desenvolvimento de Sistemas 2020-2022 👨‍💻📖 
-<hr>
+
+- Gastronomia 2002-2003 👨‍🍳🔪
+- Direito 2010-2014 👨‍⚖️⚖
+- Análise e Desenvolvimento de Sistemas 2020-2022 👨‍💻📖
+
+---
 
 ### 🎯 Objetivo profissional
-Tornar-me um bom desenvolvedor de softwares, compartilhar conhecimento e contribuir com projetos. Crescer e ajudar os outros a crescerem!
-<hr>
 
-### 🤓 Interesses 
+Tornar-me um bom desenvolvedor de softwares, compartilhar conhecimento e contribuir com projetos. Crescer e ajudar os outros a crescerem!
+
+---
+
+### 🤓 Interesses
+
 Conhecer novas tecnologias, estudar e adquirir experiência.
-<hr>
+
+---
 
 ### 🕺 O que gosto de fazer?
+
 - Viajar 🚗🛫
 - Passear com a família 👨‍👩‍👧
 - Cozinhar 🔪
@@ -33,19 +45,27 @@ Conhecer novas tecnologias, estudar e adquirir experiência.
 - NFL 🏈
 - Tomar cerveja 🍺
 - Assistir filmes e séries 🎥🎬
-<hr>
+
+---
 
 ### 💻 Linguagens e Ferramentas
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
-</div>
-<hr>
 
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📊 Estatísticas
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=hamiltontborges&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltontborges&layout=compact&theme=default&hide_border=true&locale=pt-br)
+
+[![Streak](https://streak-stats.demolab.com?user=hamiltontborges&theme=default&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
