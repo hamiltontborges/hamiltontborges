@@ -2,8 +2,6 @@
 
 ### Bem-vindo ao meu perfil do GitHub.
 
-[![hamiltontborges](https://komarev.com/ghpvc/?username=hamiltontborges&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/hamiltontborges)
-
 ### 👤 Perfil
 
 ⭐ 29/03/1984 - 👨‍👩‍👧 casado com Mariana e pai da Lara - 📍 residente em São João da Boa Vista - SP 🇧🇷
@@ -66,5 +64,3 @@ Conhecer novas tecnologias, estudar e adquirir experiência.
 ### 📊 Estatísticas
 
 [![Streak](https://streak-stats.demolab.com?user=hamiltontborges&theme=default&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Stats](https://github-readme-activity-graph.vercel.app/graph?username=hamiltontborges&theme=minimal&hide_border=true&area=true)
